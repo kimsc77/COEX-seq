@@ -1,5 +1,4 @@
-# COEX-seq
-COEX-seq: COnvert a variety of measurements of gene EXpression in RNA-seq
+# COEX-seq: COnvert a variety of measurements of gene EXpression in RNA-seq
 
 COEX-seq is a web application(Shiny; a web application framework for R) framework for Convert a variety of measurements of gene expression in RNA-seq experiments. 
 
