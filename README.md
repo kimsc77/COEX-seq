@@ -24,3 +24,6 @@ COEX-seq is a web application(Shiny; a web application framework for R) framewor
 9. Click: Header, Seperator
 10. Click Submit
 
+
+
+
