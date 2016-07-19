@@ -1,6 +1,11 @@
 # COEX-seq
 COEX-seq: COnvert a variety of measurements of gene EXpression in RNA-seq
 
+COEX-seq is a web application(Shiny; a web application framework for R) framework for Convert a variety of measurements of gene expression in RNA-seq experiments. 
+
+
+# INSTALL & RUN
+
 1. Install R (www.r-project.org) & Rstudio (https://www.rstudio.com/)
 2. Install Shiny package (https://cran.r-project.org/web/packages/shiny/index.html)
    command line
