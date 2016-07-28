@@ -17,7 +17,7 @@ COEX-seq is a web application(Shiny; a web application framework for R) framewor
   - Entrez_length.txt
   - GenBank_length.txt
   - GeneSymbol_length.txt
-5. Run server.r using Rstudio
+5. Run server.r(or ui.r) using Rstudio
 6. Select Before Measurement : ex) Count
 7. Select After Measurement : ex) TPM
 8. Load Input file : ex) example file (https://github.com/kimsc77/COEX-seq/issues/1)
